@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: rgb(154, 82, 220);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.contner{
+    background-color: white;
+    width: 30%;
+    height: 70%;
+    border-radius:15px;
+    padding: 2% 2% 0 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 2%;
+    
+}
+.item1{
+    width: 100%;
+    height:10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img1{
+    width: 50px;
+    height: 50px;
+}
+.item01 p{
+    color: aquamarine;
+}
+.item2{
+    width: 100%;
+    height:10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.item2 p{
+    color: aquamarine;
+}
+.item2 button{
+    width:30%;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    background-color: blueviolet;
+
+}
+.item02 {
+    width:60%;
+}
+.item02 p {
+    color: rgb(226, 220, 212);
+}
+.item3 {
+    width: 100%;
+    height:15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.item03{
+    display: flex;
+    justify-content: center;
+}
+.item03 i{
+    color: goldenrod;
+
+}
+.item3 p{
+    color: rgb(226, 220, 212);
+}
+.item4{
+    width: 100%;
+    height:10%;
+    
+}
+.item04{
+    display: flex;
+    justify-content: space-between;
+}
+.item4 button{
+    width: 30%;
+    padding: 10px;
+    border: none;
+    border-radius: 35px;
+
+}
+.item5{
+    width: 100%;
+    height:31%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap:2px;
+    
+}
+.item05{
+    width: 100%;
+    height:48%;
+    display: flex;
+    justify-content: space-between;
+    gap:2%;
+}
+.item051{
+    width: 48%;
+    border: solid 2px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap:5px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.item5 p{
+    color: rgb(226, 220, 212);
+}
+.item6{
+    width: 100%;
+    height:10%;
+    
+}
+.item6 button{
+    width: 100%;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 15px;
+    padding: 15px;
+    
+
+}
+
+
+
+
+
+
